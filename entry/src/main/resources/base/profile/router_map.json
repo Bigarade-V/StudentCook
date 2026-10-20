@@ -1,0 +1,19 @@
+{
+  "routerMap": [
+    {
+      "name": "CategoryPage",
+      "pageSourceFile": "src/main/ets/pages/CategoryPage.ets",
+      "buildFunction": "CategoryPageBuilder"
+    },
+    {
+      "name": "DetailPage",
+      "pageSourceFile": "src/main/ets/pages/DetailPage.ets",
+      "buildFunction": "DetailPageBuilder"
+    },
+    {
+      "name": "FavoritesPage",
+      "pageSourceFile": "src/main/ets/pages/FavoritesPage.ets",
+      "buildFunction": "FavoritesPageBuilder"
+    }
+  ]
+}
